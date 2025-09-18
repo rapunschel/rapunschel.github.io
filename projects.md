@@ -5,7 +5,7 @@ title: Projects
 - [Maze of mysteries: bachelor project](https://github.com/rapunschel/MoM#) - Collocated collaboration game for children, developed for iPads.
 
 ## Mobile apps made with Flutter
-- [Orodomop](https://github.com/rapunschel/orodomop) - Reversed Pomodoro. Omodorop!
+- [Orodomop](https://github.com/rapunschel/orodomop) - Reversed Pomodoro. Orodomop!
   
 - [Nestify: course project](https://github.com/rapunschel/nestify) - MVP app for sharing blueprints for insect hotels & bird houses.
 
