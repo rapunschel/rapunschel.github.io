@@ -5,8 +5,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Personal website.
+#description: >
+# Personal website.
 
 # Build settings
 
@@ -20,7 +20,7 @@ remote_theme: "jekyll/minima@1bff9ed10fd0b9c76419ebdcfb35017f0abab409"
 
 plugins:
   #- jekyll-feed
-  - jekyll-seo-tag
+  #- jekyll-seo-tag
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
