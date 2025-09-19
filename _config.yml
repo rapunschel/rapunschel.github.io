@@ -11,7 +11,7 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-remote_theme: "jekyll/minima@1bff9ed10fd0b9c76419ebdcfb35017f0abab409"
+remote_theme: "jekyll/minima@1e8a445"
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and
@@ -42,12 +42,8 @@ minima:
     # - about.md
 
   # Set to `true` to show excerpts on the homepage.
-  #show_excerpts: false
-
-  # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #date_format: "%b-%d-%Y"
+  show_excerpts: false
+  date_format: "%b-%d-%Y"
 
   # Social Media Links
   # Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
@@ -56,10 +52,10 @@ minima:
   # * title    Tooltip rendered on hovering over icon.
   # * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   # * url      Full URL of social profile.
-  #social_links:
-  #  - title: Minima Theme repository at GitHub
-  #    icon: github
-  #    url: "https://github.com/jekyll/minima"
+  social_links:
+    - title: github
+      icon: github
+      url: "https://github.com/rapunschel"
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
