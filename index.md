@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About 
 ---
 
 Hello, I'm Cornelia, originally from Scania[^1]. I moved to Gothenburg in 2018 to study at Gothenburg University and have been living here ever since. Came here to study mathematics but ended up studying computer science in 2020 and graduated with a bachelor's in 2024. 
